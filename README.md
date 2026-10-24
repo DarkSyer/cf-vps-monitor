@@ -2,6 +2,7 @@
 # CF VPS Monitor
 
 CF VPS Monitor 是一个轻量 VPS 探针面板，使用 Cloudflare Workers 承载前端、API、实时连接和定时任务，使用 Durable Objects 协调实时状态，使用 Supabase Postgres 保存配置和历史数据，使用 Go Agent 在服务器上采集指标。
+DarkSyer
 
 
 ## 特性
